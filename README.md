@@ -99,8 +99,8 @@ For any questions or inquiries, please email us at [mohammadreza.chv7@gmial.com]
 
 ## Screenshots
 
-![Screenshot 1](./images/screenshot1.png)
+![Screenshot 1](./images/client1.png)
 
-![Screenshot 2](./images/screenshot2.png)
+![Screenshot 2](./images/client2.png)
 
 ---
