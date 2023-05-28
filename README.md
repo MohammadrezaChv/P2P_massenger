@@ -1,7 +1,5 @@
 # P2P Messenger
 
-![P2P Messenger Logo](./images/logo.png)
-
 P2P Messenger is a decentralized peer-to-peer messaging application written in Python. It allows users to communicate directly with each other without relying on centralized servers, providing a secure and private messaging experience while ensuring data integrity and confidentiality.
 
 ## Features
@@ -20,7 +18,7 @@ P2P Messenger is a decentralized peer-to-peer messaging application written in P
 
 - [Python](https://www.python.org/downloads/) installed on your machine.
 - [Git](https://git-scm.com) installed on your machine.
-- []
+
 
 ### Installation
 
@@ -86,11 +84,13 @@ Please ensure your code follows the project's coding style and includes relevant
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE.md).
+
 
 ### Acknowledgements
 
 - [PyCryptodome](https://pycryptodome.readthedocs.io/) - Python library for cryptographic operations.
+- [Threading](https://docs.python.org/3/library/threading.html) - Python library for enable server to respond several clients.
+- [Socket](https://docs.python.org/3/library/socket.html) - Python module provides access to the BSD socket interface.
 
 
 ### Contact
